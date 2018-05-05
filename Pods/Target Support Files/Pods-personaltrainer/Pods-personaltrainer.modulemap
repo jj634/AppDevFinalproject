@@ -1,0 +1,6 @@
+framework module Pods_personaltrainer {
+  umbrella header "Pods-personaltrainer-umbrella.h"
+
+  export *
+  module * { export * }
+}
